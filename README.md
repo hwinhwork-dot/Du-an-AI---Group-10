@@ -1,5 +1,5 @@
 # 🚀 Dự án AI: EchoMind thuộc Công ty Mindconnect Lab
-_Nhóm 11 - Lớp Dự án Trí tuệ nhân tạo (UEH)_
+_Nhóm 11 - Dự án Trí tuệ nhân tạo (UEH)_
 
 [Brochure Dự án](https://heyzine.com/flip-book/e34e5a1cf5.html)
 
@@ -49,4 +49,4 @@ Dự án được thực hiện theo phương pháp **Agile/Scrum** kết hợp 
 * **Brochure Dự án:** [Xem chi tiết tại đây](https://heyzine.com/flip-book/e34e5a1cf5.html)
 
 ---
-_Đây là đồ án trong khuôn khổ môn học Dự án Trí tuệ nhân tạo do ThS **Tạ Việt Phương** làm Giảng viên hướng dẫn tại Đại học Kinh tế TP. Hồ Chí Minh (UEH)._
+_Đây là dự án AI của Nhóm 11 do ThS **Tạ Việt Phương** làm Giảng viên hướng dẫn tại Đại học Kinh tế TP. Hồ Chí Minh (UEH)._
